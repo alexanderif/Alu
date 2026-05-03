@@ -1,0 +1,14 @@
+{
+  "name": "ali-relay",
+  "version": "1.0.0",
+  "description": "Netlify Edge Function HTTP relay - Ali",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
